@@ -43,6 +43,7 @@
 #include "model/diffusion/mmdit.hpp"
 #include "model/diffusion/model.hpp"
 #include "model/diffusion/pid.hpp"
+#include "model/diffusion/omnigen2.hpp"
 #include "model/diffusion/qwen_image.hpp"
 #include "model/diffusion/unet.hpp"
 #include "model/diffusion/wan.hpp"
